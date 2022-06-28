@@ -2,5 +2,9 @@
   {
     "package": "earthtide",
     "oncran": true
+  },
+  {
+    "package": "hydrorecipes",
+    "oncran": true
   }
 ]
