@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "earthtide"]
+	path = earthtide
+	url = https://github.com/jkennel/earthtide
+	shallow = true
+	registered = true
 [submodule "hydrorecipes"]
 	path = hydrorecipes
 	url = https://github.com/jkennel/hydrorecipes
