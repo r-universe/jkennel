@@ -8,8 +8,3 @@
 	url = https://github.com/jkennel/earthtide
 	shallow = true
 	registered = true
-[submodule "hydrorecipes"]
-	path = hydrorecipes
-	url = https://github.com/jkennel/hydrorecipes
-	shallow = true
-	registered = true
